@@ -57,4 +57,4 @@ while (--$n > 0) {
   $timeEnd = $timeBegin - 1;
 }
 
-file_put_contents(dirname(__DIR__) . '/raw/weekList.json', json_encode($weekList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents(dirname(__DIR__) . '/docs/json/weekList.json', json_encode($weekList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
