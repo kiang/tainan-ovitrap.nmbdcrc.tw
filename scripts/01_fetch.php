@@ -1,5 +1,6 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
+$basePath = dirname(__DIR__);
 
 use Symfony\Component\BrowserKit\HttpBrowser;
 use Symfony\Component\HttpClient\HttpClient;
@@ -19,7 +20,7 @@ $weekList = array();
 while (--$n > 0) {
   $timeBegin = strtotime('last monday', $timeEnd);
 
-  $yearPath = dirname(__DIR__) . '/raw/' . date('Y', $timeEnd);
+  $yearPath = $basePath . '/docs/json/points/' . date('Y', $timeEnd);
   if (!file_exists($yearPath)) {
     mkdir($yearPath, 0777, true);
   }
@@ -57,4 +58,4 @@ while (--$n > 0) {
   $timeEnd = $timeBegin - 1;
 }
 
-file_put_contents(dirname(__DIR__) . '/docs/json/weekList.json', json_encode($weekList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+file_put_contents($basePath . '/docs/json/weekList.json', json_encode($weekList, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
