@@ -26,7 +26,7 @@ foreach ($weekJson as $week) {
     $latestYm = $week['ym'];
   }
   $y = substr($week['ym'], 0, 4);
-  $ymFile = $basePath . '/raw/' . $y . '/' . $week['ym'] . '.json';
+  $ymFile = $basePath . '/docs/json/points/' . $y . '/' . $week['ym'] . '.json';
   $ymJson = json_decode(file_get_contents($ymFile), true);
   foreach ($ymJson as $point) {
     if (empty($point['InvestigateUnit'])) {
