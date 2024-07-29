@@ -6,9 +6,16 @@
             "台南市衛生局": "台南市衛生局",
             "國衛院蚊媒中心_疫情": "國衛院蚊媒中心_疫情"
         },
-        "latest": "202429"
+        "latest": "202430"
     },
     "67000320024": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 86,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 5,
@@ -344,21 +351,16 @@
                 "countEggs": 29,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 12
-            }
         }
     },
     "67000320005": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 107,
+                "countTotal": 15
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 8,
@@ -694,21 +696,16 @@
                 "countEggs": 129,
                 "countTotal": 15
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 96,
-                "countTotal": 15
-            }
         }
     },
     "67000320039": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 51,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 4,
@@ -1044,21 +1041,16 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000370005": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 185,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 3,
@@ -1394,21 +1386,16 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 121,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000370040": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 118,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 7,
@@ -1744,21 +1731,16 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
         }
     },
     "67000330007": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 9,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 6,
@@ -2094,21 +2076,16 @@
                 "countEggs": 0,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
         }
     },
     "67000330008": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 18,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 3,
@@ -2444,21 +2421,16 @@
                 "countEggs": 12,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 28,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
         }
     },
     "67000330027": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 34,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 6,
@@ -2794,21 +2766,16 @@
                 "countEggs": 28,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 28,
-                "countTotal": 10
-            }
         }
     },
     "67000320023": {
+        "202430": {
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 56,
+                "countTotal": 18
+            }
+        },
         "202429": {
             "校園自主管理": {
                 "countPlus": 6,
@@ -3144,21 +3111,21 @@
                 "countEggs": 177,
                 "countTotal": 18
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 80,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 159,
-                "countTotal": 18
-            }
         }
     },
     "67000320037": {
+        "202430": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 28,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 33,
+                "countTotal": 5
+            }
+        },
         "202429": {
             "校園自主管理": {
                 "countPlus": 2,
@@ -3634,26 +3601,16 @@
                 "countEggs": 0,
                 "countTotal": 5
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 45,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
         }
     },
     "67000340004": {
+        "202430": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
         "202429": {
             "校園自主管理": {
                 "countPlus": 0,
@@ -3989,21 +3946,16 @@
                 "countEggs": 35,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 29,
-                "countTotal": 12
-            }
         }
     },
     "67000340008": {
+        "202430": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 2
+            }
+        },
         "202429": {
             "校園自主管理": {
                 "countPlus": 2,
@@ -4339,21 +4291,21 @@
                 "countEggs": 0,
                 "countTotal": 2
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 14
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 2
-            }
         }
     },
     "67000340032": {
+        "202430": {
+            "校園自主管理": {
+                "countPlus": 4,
+                "countEggs": 80,
+                "countTotal": 4
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 40,
+                "countTotal": 2
+            }
+        },
         "202429": {
             "校園自主管理": {
                 "countPlus": 4,
@@ -4829,26 +4781,16 @@
                 "countEggs": 0,
                 "countTotal": 2
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 29,
-                "countTotal": 4
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 2
-            }
         }
     },
     "67000340051": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 147,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 7,
@@ -5184,21 +5126,16 @@
                 "countEggs": 82,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 4,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 24,
-                "countTotal": 12
-            }
         }
     },
     "67000340054": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 39,
+                "countTotal": 10
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 5,
@@ -5534,21 +5471,16 @@
                 "countEggs": 16,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 14,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 2,
-                "countTotal": 12
-            }
         }
     },
     "67000320021": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 3
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 0,
@@ -5884,21 +5816,16 @@
                 "countEggs": 0,
                 "countTotal": 3
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 3
-            }
         }
     },
     "67000320036": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 2
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 1,
@@ -6234,21 +6161,16 @@
                 "countEggs": 0,
                 "countTotal": 2
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 24,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 2
-            }
         }
     },
     "67000320029": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 54,
+                "countTotal": 5
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 5,
@@ -6584,21 +6506,16 @@
                 "countEggs": 5,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
         }
     },
     "67000340001": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 2
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 0,
@@ -6934,21 +6851,16 @@
                 "countEggs": 37,
                 "countTotal": 2
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 37,
-                "countTotal": 2
-            }
         }
     },
     "67000340044": {
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 126,
+                "countTotal": 6
+            }
+        },
         "202429": {
             "國衛院蚊媒中心_台南": {
                 "countPlus": 4,
@@ -7284,18 +7196,6 @@
                 "countEggs": 9,
                 "countTotal": 6
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 6
-            }
         }
     },
     "67000370031": {
@@ -7489,13 +7389,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -7724,13 +7617,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            }
         }
     },
     "67000370043": {
@@ -7927,13 +7813,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 37,
                 "countTotal": 12
             }
         }
@@ -8134,13 +8013,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 12
-            }
         }
     },
     "67000370025": {
@@ -8337,13 +8209,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 25,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -8544,13 +8409,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 4,
-                "countTotal": 12
-            }
         }
     },
     "67000370033": {
@@ -8749,13 +8607,6 @@
                 "countEggs": 52,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000370034": {
@@ -8949,13 +8800,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 11,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 11,
@@ -9159,13 +9003,6 @@
                 "countEggs": 10,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000370041": {
@@ -9362,13 +9199,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 145,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 54,
                 "countTotal": 12
             }
         }
@@ -9569,13 +9399,6 @@
                 "countEggs": 19,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 12
-            }
         }
     },
     "67000370039": {
@@ -9769,13 +9592,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -9979,13 +9795,6 @@
                 "countEggs": 74,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 59,
-                "countTotal": 12
-            }
         }
     },
     "67000370011": {
@@ -10179,13 +9988,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -10389,13 +10191,6 @@
                 "countEggs": 36,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 45,
-                "countTotal": 12
-            }
         }
     },
     "67000270013": {
@@ -10594,13 +10389,6 @@
                 "countEggs": 31,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 48,
-                "countTotal": 12
-            }
         }
     },
     "67000270014": {
@@ -10794,13 +10582,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -11004,13 +10785,6 @@
                 "countEggs": 49,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 12
-            }
         }
     },
     "67000270004": {
@@ -11207,13 +10981,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 43,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 11,
                 "countTotal": 12
             }
         }
@@ -11414,13 +11181,6 @@
                 "countEggs": 53,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 68,
-                "countTotal": 12
-            }
         }
     },
     "67000340005": {
@@ -11614,13 +11374,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -11824,13 +11577,6 @@
                 "countEggs": 31,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 9,
-                "countTotal": 12
-            }
         }
     },
     "67000340049": {
@@ -12027,13 +11773,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 27,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -12234,13 +11973,6 @@
                 "countEggs": 13,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 12
-            }
         }
     },
     "67000340038": {
@@ -12434,13 +12166,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 5,
@@ -12644,13 +12369,6 @@
                 "countEggs": 11,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 12
-            }
         }
     },
     "67000340039": {
@@ -12847,13 +12565,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 83,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 23,
                 "countTotal": 12
             }
         }
@@ -13054,13 +12765,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
         }
     },
     "67000340040": {
@@ -13254,13 +12958,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -13464,13 +13161,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 2,
-                "countTotal": 12
-            }
         }
     },
     "67000340007": {
@@ -13664,13 +13354,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -13874,13 +13557,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000310012": {
@@ -14079,13 +13755,6 @@
                 "countEggs": 49,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 30,
-                "countTotal": 12
-            }
         }
     },
     "67000310039": {
@@ -14279,13 +13948,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -14489,13 +14151,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000310001": {
@@ -14694,18 +14349,6 @@
                 "countEggs": 88,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 128,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 2,
-                "countEggs": 48,
-                "countTotal": 9
-            }
         }
     },
     "67000310031": {
@@ -14902,13 +14545,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 24,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 2,
                 "countTotal": 12
             }
         }
@@ -15109,13 +14745,6 @@
                 "countEggs": 11,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 12
-            }
         }
     },
     "67000310017": {
@@ -15309,13 +14938,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 60,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 60,
@@ -15519,13 +15141,6 @@
                 "countEggs": 58,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
         }
     },
     "67000310028": {
@@ -15722,13 +15337,6 @@
             "台南市衛生局": {
                 "countPlus": 5,
                 "countEggs": 161,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 320,
                 "countTotal": 12
             }
         }
@@ -15929,13 +15537,6 @@
                 "countEggs": 13,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000310024": {
@@ -16134,13 +15735,6 @@
                 "countEggs": 116,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 58,
-                "countTotal": 12
-            }
         }
     },
     "67000310035": {
@@ -16334,13 +15928,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 26,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 26,
@@ -16544,13 +16131,6 @@
                 "countEggs": 33,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 33,
-                "countTotal": 12
-            }
         }
     },
     "67000310013": {
@@ -16749,13 +16329,6 @@
                 "countEggs": 67,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 66,
-                "countTotal": 12
-            }
         }
     },
     "67000310015": {
@@ -16949,13 +16522,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -17159,13 +16725,6 @@
                 "countEggs": 21,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 21,
-                "countTotal": 12
-            }
         }
     },
     "67000310022": {
@@ -17362,13 +16921,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 41,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 28,
                 "countTotal": 12
             }
         }
@@ -17568,18 +17120,6 @@
                 "countPlus": 0,
                 "countEggs": 0,
                 "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 1,
-                "countEggs": 9,
-                "countTotal": 10
             }
         }
     },
@@ -17794,18 +17334,6 @@
                 "countEggs": 0,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
         }
     },
     "67000310020": {
@@ -17999,13 +17527,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 30,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 30,
@@ -18209,13 +17730,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000310019": {
@@ -18412,13 +17926,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 19,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 16,
                 "countTotal": 12
             }
         }
@@ -18619,13 +18126,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 15,
-                "countTotal": 12
-            }
         }
     },
     "67000360009": {
@@ -18819,13 +18319,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -19029,13 +18522,6 @@
                 "countEggs": 52,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 61,
-                "countTotal": 12
-            }
         }
     },
     "67000360005": {
@@ -19232,13 +18718,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 13,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -19439,13 +18918,6 @@
                 "countEggs": 94,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 70,
-                "countTotal": 12
-            }
         }
     },
     "67000360007": {
@@ -19642,13 +19114,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 25,
                 "countTotal": 12
             }
         }
@@ -19849,13 +19314,6 @@
                 "countEggs": 20,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 10,
-                "countTotal": 12
-            }
         }
     },
     "67000350024": {
@@ -20054,13 +19512,6 @@
                 "countEggs": 65,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 87,
-                "countTotal": 12
-            }
         }
     },
     "67000350007": {
@@ -20254,13 +19705,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -20464,13 +19908,6 @@
                 "countEggs": 9,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350002": {
@@ -20667,13 +20104,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 278,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 161,
                 "countTotal": 12
             }
         }
@@ -20874,13 +20304,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 32,
-                "countTotal": 12
-            }
         }
     },
     "67000350004": {
@@ -21077,13 +20500,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 106,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 46,
                 "countTotal": 12
             }
         }
@@ -21284,13 +20700,6 @@
                 "countEggs": 55,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 96,
-                "countTotal": 12
-            }
         }
     },
     "67000350022": {
@@ -21489,13 +20898,6 @@
                 "countEggs": 119,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 170,
-                "countTotal": 12
-            }
         }
     },
     "67000350011": {
@@ -21689,13 +21091,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -21899,13 +21294,6 @@
                 "countEggs": 23,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 23,
-                "countTotal": 12
-            }
         }
     },
     "67000350041": {
@@ -22102,13 +21490,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 51,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -22309,13 +21690,6 @@
                 "countEggs": 6,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350044": {
@@ -22512,13 +21886,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 7,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 33,
                 "countTotal": 12
             }
         }
@@ -22719,13 +22086,6 @@
                 "countEggs": 35,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 31,
-                "countTotal": 12
-            }
         }
     },
     "67000350021": {
@@ -22922,13 +22282,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 30,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
                 "countTotal": 12
             }
         }
@@ -23129,13 +22482,6 @@
                 "countEggs": 18,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350045": {
@@ -23334,13 +22680,6 @@
                 "countEggs": 20,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 14,
-                "countTotal": 12
-            }
         }
     },
     "67000350008": {
@@ -23534,13 +22873,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -23744,13 +23076,6 @@
                 "countEggs": 47,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 52,
-                "countTotal": 12
-            }
         }
     },
     "67000350018": {
@@ -23947,13 +23272,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 27,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 67,
                 "countTotal": 12
             }
         }
@@ -24154,13 +23472,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 9,
-                "countTotal": 12
-            }
         }
     },
     "67000350012": {
@@ -24357,13 +23668,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 31,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 21,
                 "countTotal": 12
             }
         }
@@ -24564,13 +23868,6 @@
                 "countEggs": 53,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 95,
-                "countTotal": 12
-            }
         }
     },
     "67000320028": {
@@ -24767,13 +24064,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 8,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -24974,13 +24264,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 13,
-                "countTotal": 12
-            }
         }
     },
     "67000320010": {
@@ -25174,13 +24457,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -25384,13 +24660,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320011": {
@@ -25584,13 +24853,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -25794,13 +25056,6 @@
                 "countEggs": 42,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320034": {
@@ -25999,13 +25254,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320040": {
@@ -26199,13 +25447,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -26409,13 +25650,6 @@
                 "countEggs": 13,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 12
-            }
         }
     },
     "67000320032": {
@@ -26609,13 +25843,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -26824,18 +26051,6 @@
                 "countEggs": 68,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 3,
-                "countEggs": 75,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320020": {
@@ -27029,13 +26244,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -27239,13 +26447,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320009": {
@@ -27439,13 +26640,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 6,
@@ -27649,13 +26843,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320015": {
@@ -27849,13 +27036,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -28059,13 +27239,6 @@
                 "countEggs": 5,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330004": {
@@ -28262,13 +27435,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 262,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 100,
                 "countTotal": 12
             }
         }
@@ -28469,13 +27635,6 @@
                 "countEggs": 76,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 43,
-                "countTotal": 12
-            }
         }
     },
     "67000330025": {
@@ -28674,13 +27833,6 @@
                 "countEggs": 62,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 39,
-                "countTotal": 12
-            }
         }
     },
     "67000330034": {
@@ -28874,13 +28026,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -29084,13 +28229,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330026": {
@@ -29284,13 +28422,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -29494,13 +28625,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330029": {
@@ -29699,13 +28823,6 @@
                 "countEggs": 69,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330039": {
@@ -29899,13 +29016,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -30109,13 +29219,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330033": {
@@ -30312,13 +29415,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
                 "countTotal": 12
             }
         }
@@ -30519,13 +29615,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 22,
-                "countTotal": 12
-            }
         }
     },
     "67000330015": {
@@ -30722,13 +29811,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 79,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 39,
                 "countTotal": 12
             }
         }
@@ -30929,13 +30011,6 @@
                 "countEggs": 33,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 105,
-                "countTotal": 12
-            }
         }
     },
     "67000330005": {
@@ -31132,13 +30207,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 17,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -31339,13 +30407,6 @@
                 "countEggs": 224,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 30,
-                "countTotal": 12
-            }
         }
     },
     "67000010014": {
@@ -31539,13 +30600,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -31749,13 +30803,6 @@
                 "countEggs": 48,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 93,
-                "countTotal": 12
-            }
         }
     },
     "67000010030": {
@@ -31952,13 +30999,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 105,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 204,
                 "countTotal": 12
             }
         }
@@ -32159,13 +31199,6 @@
                 "countEggs": 56,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 69,
-                "countTotal": 12
-            }
         }
     },
     "67000280006": {
@@ -32359,13 +31392,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -32569,13 +31595,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000370044": {
@@ -32769,13 +31788,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -32979,13 +31991,6 @@
                 "countEggs": 108,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 71,
-                "countTotal": 12
-            }
         }
     },
     "67000370007": {
@@ -33184,13 +32189,6 @@
                 "countEggs": 25,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 33,
-                "countTotal": 12
-            }
         }
     },
     "67000370022": {
@@ -33384,13 +32382,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -33594,13 +32585,6 @@
                 "countEggs": 80,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 76,
-                "countTotal": 12
-            }
         }
     },
     "67000270008": {
@@ -33794,13 +32778,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 12,
@@ -34004,13 +32981,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000270016": {
@@ -34204,13 +33174,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -34414,13 +33377,6 @@
                 "countEggs": 92,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 80,
-                "countTotal": 12
-            }
         }
     },
     "67000270001": {
@@ -34617,13 +33573,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 31,
                 "countTotal": 12
             }
         }
@@ -34824,13 +33773,6 @@
                 "countEggs": 45,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 12
-            }
         }
     },
     "67000270011": {
@@ -35027,13 +33969,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 21,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -35234,13 +34169,6 @@
                 "countEggs": 104,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 39,
-                "countTotal": 12
-            }
         }
     },
     "67000270006": {
@@ -35437,13 +34365,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 35,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 14,
                 "countTotal": 12
             }
         }
@@ -35644,13 +34565,6 @@
                 "countEggs": 30,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 16,
-                "countTotal": 12
-            }
         }
     },
     "67000340026": {
@@ -35849,13 +34763,6 @@
                 "countEggs": 10,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000340018": {
@@ -36049,13 +34956,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -36257,13 +35157,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 47,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 33,
                 "countTotal": 12
             }
         }
@@ -36474,18 +35367,6 @@
                 "countEggs": 71,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 60,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 1,
-                "countEggs": 104,
-                "countTotal": 10
-            }
         }
     },
     "67000340025": {
@@ -36682,13 +35563,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 11,
                 "countTotal": 12
             }
         }
@@ -36889,13 +35763,6 @@
                 "countEggs": 9,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000340023": {
@@ -37092,13 +35959,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 26,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
                 "countTotal": 12
             }
         }
@@ -37299,13 +36159,6 @@
                 "countEggs": 13,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000340020": {
@@ -37502,13 +36355,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 26,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 31,
                 "countTotal": 12
             }
         }
@@ -37709,13 +36555,6 @@
                 "countEggs": 28,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 17,
-                "countTotal": 12
-            }
         }
     },
     "67000340052": {
@@ -37914,13 +36753,6 @@
                 "countEggs": 18,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 12
-            }
         }
     },
     "67000340053": {
@@ -38114,13 +36946,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -38324,13 +37149,6 @@
                 "countEggs": 6,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            }
         }
     },
     "67000340055": {
@@ -38527,13 +37345,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 76,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 33,
                 "countTotal": 12
             }
         }
@@ -38734,13 +37545,6 @@
                 "countEggs": 47,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 63,
-                "countTotal": 12
-            }
         }
     },
     "67000310009": {
@@ -38939,13 +37743,6 @@
                 "countEggs": 56,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 45,
-                "countTotal": 12
-            }
         }
     },
     "67000310005": {
@@ -39139,13 +37936,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -39349,13 +38139,6 @@
                 "countEggs": 90,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 94,
-                "countTotal": 12
-            }
         }
     },
     "67000310038": {
@@ -39552,13 +38335,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 39,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 16,
                 "countTotal": 12
             }
         }
@@ -39759,13 +38535,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000310003": {
@@ -39959,13 +38728,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 29,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 29,
@@ -40169,13 +38931,6 @@
                 "countEggs": 30,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 101,
-                "countTotal": 12
-            }
         }
     },
     "67000310036": {
@@ -40369,13 +39124,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -40579,13 +39327,6 @@
                 "countEggs": 50,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 29,
-                "countTotal": 12
-            }
         }
     },
     "67000310004": {
@@ -40782,13 +39523,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 98,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 160,
                 "countTotal": 12
             }
         }
@@ -40989,13 +39723,6 @@
                 "countEggs": 39,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 12
-            }
         }
     },
     "67000310010": {
@@ -41192,13 +39919,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 76,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 24,
                 "countTotal": 12
             }
         }
@@ -41399,13 +40119,6 @@
                 "countEggs": 57,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 19,
-                "countTotal": 12
-            }
         }
     },
     "67000310043": {
@@ -41599,13 +40312,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 10,
@@ -41809,13 +40515,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 22,
-                "countTotal": 12
-            }
         }
     },
     "67000310008": {
@@ -42012,13 +40711,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 11,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -42219,13 +40911,6 @@
                 "countEggs": 78,
                 "countTotal": 13
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 53,
-                "countTotal": 12
-            }
         }
     },
     "67000310027": {
@@ -42419,13 +41104,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 16,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 16,
@@ -42629,13 +41307,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            }
         }
     },
     "67000360017": {
@@ -42832,13 +41503,6 @@
             "台南市衛生局": {
                 "countPlus": 3,
                 "countEggs": 94,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 123,
                 "countTotal": 12
             }
         }
@@ -43039,13 +41703,6 @@
                 "countEggs": 111,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 169,
-                "countTotal": 12
-            }
         }
     },
     "67000360008": {
@@ -43239,13 +41896,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -43449,13 +42099,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000360002": {
@@ -43649,13 +42292,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 43,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 43,
@@ -43859,13 +42495,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000360012": {
@@ -44062,13 +42691,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 32,
                 "countTotal": 12
             }
         }
@@ -44269,13 +42891,6 @@
                 "countEggs": 56,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 77,
-                "countTotal": 12
-            }
         }
     },
     "67000350036": {
@@ -44472,13 +43087,6 @@
             "台南市衛生局": {
                 "countPlus": 4,
                 "countEggs": 131,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 202,
                 "countTotal": 12
             }
         }
@@ -44679,13 +43287,6 @@
                 "countEggs": 10,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 32,
-                "countTotal": 12
-            }
         }
     },
     "67000350037": {
@@ -44882,13 +43483,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 19,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 75,
                 "countTotal": 12
             }
         }
@@ -45089,13 +43683,6 @@
                 "countEggs": 26,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350005": {
@@ -45289,13 +43876,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -45499,13 +44079,6 @@
                 "countEggs": 15,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350001": {
@@ -45699,13 +44272,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 10,
@@ -45909,13 +44475,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 27,
-                "countTotal": 12
-            }
         }
     },
     "67000350032": {
@@ -46109,13 +44668,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -46319,13 +44871,6 @@
                 "countEggs": 33,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 48,
-                "countTotal": 12
-            }
         }
     },
     "67000350029": {
@@ -46522,13 +45067,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 38,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 25,
                 "countTotal": 12
             }
         }
@@ -46729,13 +45267,6 @@
                 "countEggs": 11,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 13,
-                "countTotal": 12
-            }
         }
     },
     "67000350031": {
@@ -46929,13 +45460,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -47139,13 +45663,6 @@
                 "countEggs": 6,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 17,
-                "countTotal": 12
-            }
         }
     },
     "67000350030": {
@@ -47344,13 +45861,6 @@
                 "countEggs": 15,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 51,
-                "countTotal": 12
-            }
         }
     },
     "67000350033": {
@@ -47544,13 +46054,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -47754,13 +46257,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350049": {
@@ -47954,13 +46450,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 5,
@@ -48164,13 +46653,6 @@
                 "countEggs": 105,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 121,
-                "countTotal": 12
-            }
         }
     },
     "67000350019": {
@@ -48364,13 +46846,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 13,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 13,
@@ -48574,13 +47049,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350038": {
@@ -48774,13 +47242,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 12,
@@ -48984,13 +47445,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350039": {
@@ -49184,13 +47638,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -49394,13 +47841,6 @@
                 "countEggs": 21,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000350026": {
@@ -49594,13 +48034,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 44,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 44,
@@ -49804,18 +48237,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 4,
-                "countEggs": 124,
-                "countTotal": 20
-            }
         }
     },
     "67000320022": {
@@ -50012,13 +48433,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 47,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 41,
                 "countTotal": 12
             }
         }
@@ -50219,13 +48633,6 @@
                 "countEggs": 101,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 97,
-                "countTotal": 12
-            }
         }
     },
     "67000320045": {
@@ -50419,13 +48826,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -50629,13 +49029,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320014": {
@@ -50832,13 +49225,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 12,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -51054,18 +49440,6 @@
                 "countEggs": 70,
                 "countTotal": 10
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 1,
-                "countEggs": 40,
-                "countTotal": 10
-            }
         }
     },
     "67000320025": {
@@ -51264,13 +49638,6 @@
                 "countEggs": 26,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320044": {
@@ -51464,13 +49831,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -51674,13 +50034,6 @@
                 "countEggs": 18,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320041": {
@@ -51874,13 +50227,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -52084,13 +50430,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320012": {
@@ -52287,13 +50626,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 123,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 67,
                 "countTotal": 12
             }
         }
@@ -52494,13 +50826,6 @@
                 "countEggs": 8,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320027": {
@@ -52699,13 +51024,6 @@
                 "countEggs": 14,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000320042": {
@@ -52899,13 +51217,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -53109,13 +51420,6 @@
                 "countEggs": 78,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 38,
-                "countTotal": 12
-            }
         }
     },
     "67000320026": {
@@ -53314,18 +51618,6 @@
                 "countEggs": 94,
                 "countTotal": 13
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
         }
     },
     "67000320017": {
@@ -53519,13 +51811,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 10,
@@ -53729,13 +52014,6 @@
                 "countEggs": 58,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330021": {
@@ -53934,13 +52212,6 @@
                 "countEggs": 12,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            }
         }
     },
     "67000330023": {
@@ -54134,13 +52405,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -54344,13 +52608,6 @@
                 "countEggs": 126,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 240,
-                "countTotal": 12
-            }
         }
     },
     "67000330011": {
@@ -54547,13 +52804,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 8,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -54754,13 +53004,6 @@
                 "countEggs": 137,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 89,
-                "countTotal": 12
-            }
         }
     },
     "67000330001": {
@@ -54957,13 +53200,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 32,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -55164,13 +53400,6 @@
                 "countEggs": 59,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 4,
-                "countTotal": 12
-            }
         }
     },
     "67000330003": {
@@ -55367,13 +53596,6 @@
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 24,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
                 "countTotal": 12
             }
         }
@@ -55574,13 +53796,6 @@
                 "countEggs": 37,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 40,
-                "countTotal": 12
-            }
         }
     },
     "67000330017": {
@@ -55774,13 +53989,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 21,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 2,
                 "countEggs": 21,
@@ -55984,13 +54192,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330016": {
@@ -56187,13 +54388,6 @@
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 17,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 44,
                 "countTotal": 12
             }
         }
@@ -56394,13 +54588,6 @@
                 "countEggs": 72,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 12
-            }
         }
     },
     "67000330024": {
@@ -56594,13 +54781,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 21,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 1,
                 "countEggs": 21,
@@ -56804,13 +54984,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000330018": {
@@ -57004,13 +55177,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -57214,13 +55380,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000010008": {
@@ -57417,13 +55576,6 @@
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 9,
                 "countTotal": 12
             }
         }
@@ -57624,13 +55776,6 @@
                 "countEggs": 57,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 116,
-                "countTotal": 12
-            }
         }
     },
     "67000010029": {
@@ -57829,13 +55974,6 @@
                 "countEggs": 110,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 139,
-                "countTotal": 12
-            }
         }
     },
     "67000280021": {
@@ -58029,13 +56167,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -58239,13 +56370,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000280004": {
@@ -58439,13 +56563,6 @@
             }
         },
         "202402": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202401": {
             "台南市衛生局": {
                 "countPlus": 0,
                 "countEggs": 0,
@@ -58649,13 +56766,6 @@
                 "countEggs": 0,
                 "countTotal": 12
             }
-        },
-        "202401": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
         }
     },
     "67000120001": {
@@ -58679,13 +56789,6 @@
                 "countEggs": 49,
                 "countTotal": 8
             }
-        },
-        "202401": {
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 8
-            }
         }
     },
     "67000120004": {
@@ -58704,13 +56807,6 @@
             }
         },
         "202402": {
-            "國衛院蚊媒中心_疫情": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 2
-            }
-        },
-        "202401": {
             "國衛院蚊媒中心_疫情": {
                 "countPlus": 0,
                 "countEggs": 0,
