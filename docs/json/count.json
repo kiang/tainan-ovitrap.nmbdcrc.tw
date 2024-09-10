@@ -1,12 +1,1412 @@
 {
     "meta": {
         "units": {
+            "國衛院蚊媒中心_台南": "國衛院蚊媒中心_台南",
             "台南市衛生局": "台南市衛生局",
             "校園自主管理": "校園自主管理",
-            "國衛院蚊媒中心_台南": "國衛院蚊媒中心_台南",
             "國衛院蚊媒中心_疫情": "國衛院蚊媒中心_疫情"
         },
         "latest": "202436"
+    },
+    "67000370005": {
+        "202436": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 178,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 77,
+                "countTotal": 12
+            }
+        },
+        "202435": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 215,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 317,
+                "countTotal": 10
+            }
+        },
+        "202434": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 222,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 9,
+                "countEggs": 426,
+                "countTotal": 10
+            }
+        },
+        "202433": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 165,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 442,
+                "countTotal": 10
+            }
+        },
+        "202432": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 156,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 469,
+                "countTotal": 10
+            }
+        },
+        "202431": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 447,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 36,
+                "countTotal": 12
+            }
+        },
+        "202430": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 36,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 356,
+                "countTotal": 10
+            }
+        },
+        "202429": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 220,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 54,
+                "countTotal": 12
+            }
+        },
+        "202428": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 71,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 353,
+                "countTotal": 10
+            }
+        },
+        "202427": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 636,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 300,
+                "countTotal": 12
+            }
+        },
+        "202426": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 536,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 439,
+                "countTotal": 10
+            }
+        },
+        "202425": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 438,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 466,
+                "countTotal": 10
+            }
+        },
+        "202424": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 401,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 730,
+                "countTotal": 10
+            }
+        },
+        "202423": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 295,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 614,
+                "countTotal": 10
+            }
+        },
+        "202422": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 361,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 460,
+                "countTotal": 10
+            }
+        },
+        "202421": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 360,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 449,
+                "countTotal": 10
+            }
+        },
+        "202420": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 139,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 564,
+                "countTotal": 10
+            }
+        },
+        "202419": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 114,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 351,
+                "countTotal": 10
+            }
+        },
+        "202418": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 53,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 14,
+                "countTotal": 10
+            }
+        },
+        "202417": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 28,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 365,
+                "countTotal": 10
+            }
+        },
+        "202416": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 78,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 559,
+                "countTotal": 10
+            }
+        },
+        "202415": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 74,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 256,
+                "countTotal": 10
+            }
+        },
+        "202414": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 104,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 20,
+                "countTotal": 12
+            }
+        },
+        "202413": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 116,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 6,
+                "countTotal": 12
+            }
+        },
+        "202412": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 6,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 65,
+                "countTotal": 10
+            }
+        },
+        "202411": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202410": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 38,
+                "countTotal": 10
+            }
+        },
+        "202409": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 150,
+                "countTotal": 10
+            }
+        },
+        "202408": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 206,
+                "countTotal": 10
+            }
+        }
+    },
+    "67000370040": {
+        "202436": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 259,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 218,
+                "countTotal": 12
+            }
+        },
+        "202435": {
+            "台南市衛生局": {
+                "countPlus": 9,
+                "countEggs": 372,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 162,
+                "countTotal": 10
+            }
+        },
+        "202434": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 296,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 116,
+                "countTotal": 10
+            }
+        },
+        "202433": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 220,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 120,
+                "countTotal": 10
+            }
+        },
+        "202432": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 163,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 188,
+                "countTotal": 10
+            }
+        },
+        "202431": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 111,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 115,
+                "countTotal": 12
+            }
+        },
+        "202430": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 115,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 119,
+                "countTotal": 10
+            }
+        },
+        "202429": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 239,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 123,
+                "countTotal": 12
+            }
+        },
+        "202428": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 288,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 159,
+                "countTotal": 10
+            }
+        },
+        "202427": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 102,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 319,
+                "countTotal": 12
+            }
+        },
+        "202426": {
+            "台南市衛生局": {
+                "countPlus": 9,
+                "countEggs": 286,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 360,
+                "countTotal": 10
+            }
+        },
+        "202425": {
+            "台南市衛生局": {
+                "countPlus": 10,
+                "countEggs": 212,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 492,
+                "countTotal": 10
+            }
+        },
+        "202424": {
+            "台南市衛生局": {
+                "countPlus": 10,
+                "countEggs": 188,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 456,
+                "countTotal": 10
+            }
+        },
+        "202423": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 299,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 471,
+                "countTotal": 10
+            }
+        },
+        "202422": {
+            "台南市衛生局": {
+                "countPlus": 10,
+                "countEggs": 402,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 448,
+                "countTotal": 10
+            }
+        },
+        "202421": {
+            "台南市衛生局": {
+                "countPlus": 10,
+                "countEggs": 312,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 364,
+                "countTotal": 10
+            }
+        },
+        "202420": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 177,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 265,
+                "countTotal": 10
+            }
+        },
+        "202419": {
+            "台南市衛生局": {
+                "countPlus": 9,
+                "countEggs": 177,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 148,
+                "countTotal": 10
+            }
+        },
+        "202418": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 200,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 64,
+                "countTotal": 10
+            }
+        },
+        "202417": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 167,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 103,
+                "countTotal": 10
+            }
+        },
+        "202416": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 189,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 100,
+                "countTotal": 10
+            }
+        },
+        "202415": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 236,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 100,
+                "countTotal": 10
+            }
+        },
+        "202414": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 77,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 57,
+                "countTotal": 12
+            }
+        },
+        "202413": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 183,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 113,
+                "countTotal": 12
+            }
+        },
+        "202412": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 135,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 155,
+                "countTotal": 10
+            }
+        },
+        "202411": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 52,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 18,
+                "countTotal": 10
+            }
+        },
+        "202410": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 41,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 18,
+                "countTotal": 10
+            }
+        },
+        "202409": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 93,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202408": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 109,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        }
+    },
+    "67000340051": {
+        "202436": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 334,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 54,
+                "countTotal": 12
+            }
+        },
+        "202435": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 530,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 64,
+                "countTotal": 12
+            }
+        },
+        "202434": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 9,
+                "countEggs": 371,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 59,
+                "countTotal": 12
+            }
+        },
+        "202433": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 302,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 65,
+                "countTotal": 12
+            }
+        },
+        "202432": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 446,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 21,
+                "countTotal": 12
+            }
+        },
+        "202431": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 315,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 61,
+                "countTotal": 12
+            }
+        },
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 219,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 81,
+                "countTotal": 12
+            }
+        },
+        "202429": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 264,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 129,
+                "countTotal": 12
+            }
+        },
+        "202428": {
+            "台南市衛生局": {
+                "countPlus": 8,
+                "countEggs": 197,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 220,
+                "countTotal": 10
+            }
+        },
+        "202427": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 460,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 9,
+                "countEggs": 129,
+                "countTotal": 12
+            }
+        },
+        "202426": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 548,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 175,
+                "countTotal": 12
+            }
+        },
+        "202425": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 448,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 118,
+                "countTotal": 12
+            }
+        },
+        "202424": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 135,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 8,
+                "countEggs": 681,
+                "countTotal": 10
+            }
+        },
+        "202423": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 715,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 167,
+                "countTotal": 12
+            }
+        },
+        "202422": {
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 83,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 453,
+                "countTotal": 10
+            }
+        },
+        "202421": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 106,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 323,
+                "countTotal": 10
+            }
+        },
+        "202420": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 139,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 394,
+                "countTotal": 10
+            }
+        },
+        "202419": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 80,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 280,
+                "countTotal": 10
+            }
+        },
+        "202418": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 135,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 3,
+                "countTotal": 12
+            }
+        },
+        "202417": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 3,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 209,
+                "countTotal": 10
+            }
+        },
+        "202416": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 66,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 244,
+                "countTotal": 10
+            }
+        },
+        "202415": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 74,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 363,
+                "countTotal": 10
+            }
+        },
+        "202414": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 670,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 45,
+                "countTotal": 12
+            }
+        },
+        "202413": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 531,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202412": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 38,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 101,
+                "countTotal": 10
+            }
+        },
+        "202411": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 38,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202410": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 228,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 103,
+                "countTotal": 10
+            }
+        },
+        "202409": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 158,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 342,
+                "countTotal": 12
+            }
+        },
+        "202408": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 91,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 114,
+                "countTotal": 12
+            }
+        }
+    },
+    "67000340054": {
+        "202436": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 95,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 40,
+                "countTotal": 12
+            }
+        },
+        "202435": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 132,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 64,
+                "countTotal": 12
+            }
+        },
+        "202434": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 77,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 29,
+                "countTotal": 12
+            }
+        },
+        "202433": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 29,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 19,
+                "countTotal": 12
+            }
+        },
+        "202432": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 59,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 58,
+                "countTotal": 12
+            }
+        },
+        "202431": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 87,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 45,
+                "countTotal": 12
+            }
+        },
+        "202430": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 72,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 61,
+                "countTotal": 12
+            }
+        },
+        "202429": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 94,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 40,
+                "countTotal": 12
+            }
+        },
+        "202428": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 81,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 81,
+                "countTotal": 10
+            }
+        },
+        "202427": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 58,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 64,
+                "countTotal": 12
+            }
+        },
+        "202426": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 91,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 64,
+                "countTotal": 12
+            }
+        },
+        "202425": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 115,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 156,
+                "countTotal": 12
+            }
+        },
+        "202424": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 131,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 152,
+                "countTotal": 10
+            }
+        },
+        "202423": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 129,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 49,
+                "countTotal": 12
+            }
+        },
+        "202422": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 39,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 6,
+                "countEggs": 86,
+                "countTotal": 10
+            }
+        },
+        "202421": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 81,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 7,
+                "countEggs": 87,
+                "countTotal": 10
+            }
+        },
+        "202420": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 139,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 5,
+                "countEggs": 99,
+                "countTotal": 10
+            }
+        },
+        "202419": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 80,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 65,
+                "countTotal": 10
+            }
+        },
+        "202418": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 16,
+                "countTotal": 12
+            }
+        },
+        "202417": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202416": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 18,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202415": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 18,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202414": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 27,
+                "countTotal": 12
+            }
+        },
+        "202413": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 15,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202412": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 25,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 15,
+                "countTotal": 9
+            }
+        },
+        "202411": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 25,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202410": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            }
+        },
+        "202409": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 10
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 31,
+                "countTotal": 12
+            }
+        },
+        "202408": {
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 9
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 31,
+                "countTotal": 13
+            }
+        }
     },
     "67000320030": {
         "202436": {
@@ -26793,356 +28193,6 @@
             }
         }
     },
-    "67000370005": {
-        "202436": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 77,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 140,
-                "countTotal": 10
-            }
-        },
-        "202435": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 215,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 317,
-                "countTotal": 10
-            }
-        },
-        "202434": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 222,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 9,
-                "countEggs": 426,
-                "countTotal": 10
-            }
-        },
-        "202433": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 165,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 442,
-                "countTotal": 10
-            }
-        },
-        "202432": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 156,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 469,
-                "countTotal": 10
-            }
-        },
-        "202431": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 447,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 36,
-                "countTotal": 12
-            }
-        },
-        "202430": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 36,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 356,
-                "countTotal": 10
-            }
-        },
-        "202429": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 220,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 54,
-                "countTotal": 12
-            }
-        },
-        "202428": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 71,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 353,
-                "countTotal": 10
-            }
-        },
-        "202427": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 636,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 300,
-                "countTotal": 12
-            }
-        },
-        "202426": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 536,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 439,
-                "countTotal": 10
-            }
-        },
-        "202425": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 438,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 466,
-                "countTotal": 10
-            }
-        },
-        "202424": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 401,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 730,
-                "countTotal": 10
-            }
-        },
-        "202423": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 295,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 614,
-                "countTotal": 10
-            }
-        },
-        "202422": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 361,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 460,
-                "countTotal": 10
-            }
-        },
-        "202421": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 360,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 449,
-                "countTotal": 10
-            }
-        },
-        "202420": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 139,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 564,
-                "countTotal": 10
-            }
-        },
-        "202419": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 114,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 351,
-                "countTotal": 10
-            }
-        },
-        "202418": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 53,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 14,
-                "countTotal": 10
-            }
-        },
-        "202417": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 28,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 365,
-                "countTotal": 10
-            }
-        },
-        "202416": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 78,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 559,
-                "countTotal": 10
-            }
-        },
-        "202415": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 74,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 256,
-                "countTotal": 10
-            }
-        },
-        "202414": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 104,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 20,
-                "countTotal": 12
-            }
-        },
-        "202413": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 116,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            }
-        },
-        "202412": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 65,
-                "countTotal": 10
-            }
-        },
-        "202411": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202410": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 38,
-                "countTotal": 10
-            }
-        },
-        "202409": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 150,
-                "countTotal": 10
-            }
-        },
-        "202408": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 206,
-                "countTotal": 10
-            }
-        }
-    },
     "67000370045": {
         "202436": {
             "台南市衛生局": {
@@ -28370,356 +29420,6 @@
                 "countPlus": 4,
                 "countEggs": 176,
                 "countTotal": 12
-            }
-        }
-    },
-    "67000370040": {
-        "202436": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 218,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 88,
-                "countTotal": 10
-            }
-        },
-        "202435": {
-            "台南市衛生局": {
-                "countPlus": 9,
-                "countEggs": 372,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 162,
-                "countTotal": 10
-            }
-        },
-        "202434": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 296,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 116,
-                "countTotal": 10
-            }
-        },
-        "202433": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 220,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 120,
-                "countTotal": 10
-            }
-        },
-        "202432": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 163,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 188,
-                "countTotal": 10
-            }
-        },
-        "202431": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 111,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 115,
-                "countTotal": 12
-            }
-        },
-        "202430": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 115,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 119,
-                "countTotal": 10
-            }
-        },
-        "202429": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 239,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 123,
-                "countTotal": 12
-            }
-        },
-        "202428": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 288,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 159,
-                "countTotal": 10
-            }
-        },
-        "202427": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 102,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 319,
-                "countTotal": 12
-            }
-        },
-        "202426": {
-            "台南市衛生局": {
-                "countPlus": 9,
-                "countEggs": 286,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 360,
-                "countTotal": 10
-            }
-        },
-        "202425": {
-            "台南市衛生局": {
-                "countPlus": 10,
-                "countEggs": 212,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 492,
-                "countTotal": 10
-            }
-        },
-        "202424": {
-            "台南市衛生局": {
-                "countPlus": 10,
-                "countEggs": 188,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 456,
-                "countTotal": 10
-            }
-        },
-        "202423": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 299,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 471,
-                "countTotal": 10
-            }
-        },
-        "202422": {
-            "台南市衛生局": {
-                "countPlus": 10,
-                "countEggs": 402,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 448,
-                "countTotal": 10
-            }
-        },
-        "202421": {
-            "台南市衛生局": {
-                "countPlus": 10,
-                "countEggs": 312,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 364,
-                "countTotal": 10
-            }
-        },
-        "202420": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 177,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 265,
-                "countTotal": 10
-            }
-        },
-        "202419": {
-            "台南市衛生局": {
-                "countPlus": 9,
-                "countEggs": 177,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 148,
-                "countTotal": 10
-            }
-        },
-        "202418": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 200,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 64,
-                "countTotal": 10
-            }
-        },
-        "202417": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 167,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 103,
-                "countTotal": 10
-            }
-        },
-        "202416": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 189,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 100,
-                "countTotal": 10
-            }
-        },
-        "202415": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 236,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 100,
-                "countTotal": 10
-            }
-        },
-        "202414": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 77,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 57,
-                "countTotal": 12
-            }
-        },
-        "202413": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 183,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 113,
-                "countTotal": 12
-            }
-        },
-        "202412": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 135,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 155,
-                "countTotal": 10
-            }
-        },
-        "202411": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 52,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 10
-            }
-        },
-        "202410": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 41,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 10
-            }
-        },
-        "202409": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 93,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202408": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 109,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
             }
         }
     },
@@ -52340,706 +53040,6 @@
                 "countPlus": 1,
                 "countEggs": 10,
                 "countTotal": 12
-            }
-        }
-    },
-    "67000340051": {
-        "202436": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 258,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 54,
-                "countTotal": 12
-            }
-        },
-        "202435": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 530,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 64,
-                "countTotal": 12
-            }
-        },
-        "202434": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 9,
-                "countEggs": 371,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 59,
-                "countTotal": 12
-            }
-        },
-        "202433": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 302,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 65,
-                "countTotal": 12
-            }
-        },
-        "202432": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 446,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 21,
-                "countTotal": 12
-            }
-        },
-        "202431": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 315,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 61,
-                "countTotal": 12
-            }
-        },
-        "202430": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 219,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 81,
-                "countTotal": 12
-            }
-        },
-        "202429": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 264,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 129,
-                "countTotal": 12
-            }
-        },
-        "202428": {
-            "台南市衛生局": {
-                "countPlus": 8,
-                "countEggs": 197,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 220,
-                "countTotal": 10
-            }
-        },
-        "202427": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 460,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 9,
-                "countEggs": 129,
-                "countTotal": 12
-            }
-        },
-        "202426": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 548,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 175,
-                "countTotal": 12
-            }
-        },
-        "202425": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 448,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 118,
-                "countTotal": 12
-            }
-        },
-        "202424": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 135,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 8,
-                "countEggs": 681,
-                "countTotal": 10
-            }
-        },
-        "202423": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 715,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 167,
-                "countTotal": 12
-            }
-        },
-        "202422": {
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 83,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 453,
-                "countTotal": 10
-            }
-        },
-        "202421": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 106,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 323,
-                "countTotal": 10
-            }
-        },
-        "202420": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 139,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 394,
-                "countTotal": 10
-            }
-        },
-        "202419": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 80,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 280,
-                "countTotal": 10
-            }
-        },
-        "202418": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 135,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 3,
-                "countTotal": 12
-            }
-        },
-        "202417": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 3,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 209,
-                "countTotal": 10
-            }
-        },
-        "202416": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 66,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 244,
-                "countTotal": 10
-            }
-        },
-        "202415": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 74,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 363,
-                "countTotal": 10
-            }
-        },
-        "202414": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 670,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 45,
-                "countTotal": 12
-            }
-        },
-        "202413": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 531,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202412": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 38,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 101,
-                "countTotal": 10
-            }
-        },
-        "202411": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 38,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202410": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 228,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 103,
-                "countTotal": 10
-            }
-        },
-        "202409": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 158,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 342,
-                "countTotal": 12
-            }
-        },
-        "202408": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 91,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 114,
-                "countTotal": 12
-            }
-        }
-    },
-    "67000340054": {
-        "202436": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 79,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 40,
-                "countTotal": 12
-            }
-        },
-        "202435": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 132,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 64,
-                "countTotal": 12
-            }
-        },
-        "202434": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 77,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 29,
-                "countTotal": 12
-            }
-        },
-        "202433": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 29,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 19,
-                "countTotal": 12
-            }
-        },
-        "202432": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 59,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 58,
-                "countTotal": 12
-            }
-        },
-        "202431": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 87,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 45,
-                "countTotal": 12
-            }
-        },
-        "202430": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 72,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 61,
-                "countTotal": 12
-            }
-        },
-        "202429": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 94,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 40,
-                "countTotal": 12
-            }
-        },
-        "202428": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 81,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 81,
-                "countTotal": 10
-            }
-        },
-        "202427": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 58,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 64,
-                "countTotal": 12
-            }
-        },
-        "202426": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 91,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 64,
-                "countTotal": 12
-            }
-        },
-        "202425": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 115,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 156,
-                "countTotal": 12
-            }
-        },
-        "202424": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 131,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 152,
-                "countTotal": 10
-            }
-        },
-        "202423": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 129,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 49,
-                "countTotal": 12
-            }
-        },
-        "202422": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 39,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 6,
-                "countEggs": 86,
-                "countTotal": 10
-            }
-        },
-        "202421": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 81,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 7,
-                "countEggs": 87,
-                "countTotal": 10
-            }
-        },
-        "202420": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 139,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 5,
-                "countEggs": 99,
-                "countTotal": 10
-            }
-        },
-        "202419": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 80,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 65,
-                "countTotal": 10
-            }
-        },
-        "202418": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 16,
-                "countTotal": 12
-            }
-        },
-        "202417": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202416": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202415": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 18,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202414": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 27,
-                "countTotal": 12
-            }
-        },
-        "202413": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 15,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202412": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 25,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 15,
-                "countTotal": 9
-            }
-        },
-        "202411": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 25,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202410": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            }
-        },
-        "202409": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 10
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 31,
-                "countTotal": 12
-            }
-        },
-        "202408": {
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 9
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 31,
-                "countTotal": 13
             }
         }
     },
