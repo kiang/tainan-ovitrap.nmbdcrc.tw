@@ -54640,38 +54640,6 @@
         "TotalBuckets": 2
     },
     {
-        "SerialNo": "2439A170069004",
-        "X": "169425",
-        "Y": "2544692",
-        "InvestigateUnit": "國衛院蚊媒中心_疫情",
-        "City": "台南市",
-        "District": "北區",
-        "Village": "中樓里",
-        "Address": "前鋒路161巷17號",
-        "Outdoor": true,
-        "AddressComment": "",
-        "TotalEggs": 236,
-        "LatestTotalEggs": 236,
-        "AvgEggs": 236,
-        "TotalBuckets": 1
-    },
-    {
-        "SerialNo": "2439A170069005",
-        "X": "169437",
-        "Y": "2544726",
-        "InvestigateUnit": "國衛院蚊媒中心_疫情",
-        "City": "台南市",
-        "District": "北區",
-        "Village": "中樓里",
-        "Address": "前鋒路175巷16號",
-        "Outdoor": true,
-        "AddressComment": "",
-        "TotalEggs": 56,
-        "LatestTotalEggs": 56,
-        "AvgEggs": 56,
-        "TotalBuckets": 1
-    },
-    {
         "SerialNo": "2448D340329001",
         "X": "169479",
         "Y": "2544925",
