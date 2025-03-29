@@ -1800,6 +1800,11 @@
                 "countEggs": 34,
                 "countTotal": 12
             },
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 15,
+                "countTotal": 4
+            },
             "國衛院蚊媒中心_台南": {
                 "countPlus": 2,
                 "countEggs": 41,
@@ -12324,6 +12329,11 @@
                 "countPlus": 2,
                 "countEggs": 101,
                 "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 2
             }
         },
         "202511": {
@@ -30520,6 +30530,11 @@
                 "countEggs": 46,
                 "countTotal": 12
             },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 28,
+                "countTotal": 8
+            },
             "國衛院蚊媒中心_台南": {
                 "countPlus": 2,
                 "countEggs": 91,
@@ -34904,6 +34919,11 @@
                 "countPlus": 4,
                 "countEggs": 112,
                 "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 4,
+                "countEggs": 46,
+                "countTotal": 18
             }
         },
         "202511": {
@@ -43654,6 +43674,11 @@
                 "countPlus": 0,
                 "countEggs": 0,
                 "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
             }
         },
         "202511": {
