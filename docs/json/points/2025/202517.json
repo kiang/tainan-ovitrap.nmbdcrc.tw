@@ -1546,9 +1546,9 @@
         "Address": "民權路二段64巷3號",
         "Outdoor": true,
         "AddressComment": "",
-        "TotalEggs": 0,
-        "LatestTotalEggs": 0,
-        "AvgEggs": 0,
+        "TotalEggs": 11,
+        "LatestTotalEggs": 11,
+        "AvgEggs": 5.5,
         "TotalBuckets": 2
     },
     {
@@ -1789,22 +1789,6 @@
         "TotalEggs": 3,
         "LatestTotalEggs": 3,
         "AvgEggs": 1.5,
-        "TotalBuckets": 2
-    },
-    {
-        "SerialNo": "1852TMNMA10",
-        "X": "167788",
-        "Y": "2543468",
-        "InvestigateUnit": "國衛院蚊媒中心_台南",
-        "City": "台南市",
-        "District": "中西區",
-        "Village": "南美里",
-        "Address": "西門路二段8號",
-        "Outdoor": true,
-        "AddressComment": "",
-        "TotalEggs": 0,
-        "LatestTotalEggs": 0,
-        "AvgEggs": 0,
         "TotalBuckets": 2
     },
     {
@@ -54521,6 +54505,22 @@
         "Village": "忠政里",
         "Address": "中正路41號",
         "Outdoor": false,
+        "AddressComment": "",
+        "TotalEggs": 0,
+        "LatestTotalEggs": 0,
+        "AvgEggs": 0,
+        "TotalBuckets": 1
+    },
+    {
+        "SerialNo": "1852TMNMA10",
+        "X": "167788",
+        "Y": "2543468",
+        "InvestigateUnit": "國衛院蚊媒中心_台南",
+        "City": "台南市",
+        "District": "中西區",
+        "Village": "南美里",
+        "Address": "西門路二段8號",
+        "Outdoor": true,
         "AddressComment": "",
         "TotalEggs": 0,
         "LatestTotalEggs": 0,
