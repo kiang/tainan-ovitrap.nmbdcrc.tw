@@ -2,8 +2,8 @@
     "meta": {
         "units": {
             "台南市衛生局": "台南市衛生局",
-            "國衛院蚊媒中心_台南": "國衛院蚊媒中心_台南",
             "校園自主管理": "校園自主管理",
+            "國衛院蚊媒中心_台南": "國衛院蚊媒中心_台南",
             "國衛院蚊媒中心_疫情": "國衛院蚊媒中心_疫情"
         },
         "latest": "202519"
@@ -1800,15 +1800,15 @@
                 "countEggs": 186,
                 "countTotal": 12
             },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 31,
+                "countTotal": 4
+            },
             "國衛院蚊媒中心_台南": {
                 "countPlus": 1,
                 "countEggs": 100,
                 "countTotal": 2
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 8,
-                "countTotal": 4
             }
         },
         "202518": {
@@ -12331,8 +12331,8 @@
                 "countTotal": 12
             },
             "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
+                "countPlus": 1,
+                "countEggs": 7,
                 "countTotal": 2
             }
         },
@@ -28883,6 +28883,1201 @@
             }
         }
     },
+    "67000320023": {
+        "202519": {
+            "校園自主管理": {
+                "countPlus": 9,
+                "countEggs": 168,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 190,
+                "countTotal": 12
+            }
+        },
+        "202518": {
+            "校園自主管理": {
+                "countPlus": 8,
+                "countEggs": 199,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 209,
+                "countTotal": 12
+            }
+        },
+        "202517": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 286,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 107,
+                "countTotal": 18
+            }
+        },
+        "202516": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 219,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 5,
+                "countEggs": 65,
+                "countTotal": 18
+            }
+        },
+        "202515": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 115,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 32,
+                "countTotal": 18
+            }
+        },
+        "202514": {
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 52,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 86,
+                "countTotal": 12
+            }
+        },
+        "202513": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 91,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 5,
+                "countEggs": 27,
+                "countTotal": 18
+            }
+        },
+        "202512": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 112,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 4,
+                "countEggs": 46,
+                "countTotal": 18
+            }
+        },
+        "202511": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 113,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 5,
+                "countEggs": 51,
+                "countTotal": 18
+            }
+        },
+        "202510": {
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 81,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 81,
+                "countTotal": 12
+            }
+        },
+        "202509": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 33,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 28,
+                "countTotal": 12
+            }
+        },
+        "202508": {
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 39,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 7,
+                "countEggs": 26,
+                "countTotal": 18
+            }
+        },
+        "202507": {
+            "校園自主管理": {
+                "countPlus": 8,
+                "countEggs": 36,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 60,
+                "countTotal": 12
+            }
+        },
+        "202506": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 30,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 112,
+                "countTotal": 12
+            }
+        },
+        "202505": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 46,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 85,
+                "countTotal": 12
+            }
+        },
+        "202504": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 42,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 36,
+                "countTotal": 12
+            }
+        },
+        "202503": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 42,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 60,
+                "countTotal": 12
+            }
+        },
+        "202502": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 7,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 59,
+                "countTotal": 12
+            }
+        },
+        "202501": {
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 20,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 81,
+                "countTotal": 12
+            }
+        },
+        "202452": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 36,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 173,
+                "countTotal": 12
+            }
+        },
+        "202451": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 183,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 46,
+                "countTotal": 18
+            }
+        },
+        "202450": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 146,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 116,
+                "countTotal": 18
+            }
+        },
+        "202449": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 135,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 149,
+                "countTotal": 18
+            }
+        },
+        "202448": {
+            "校園自主管理": {
+                "countPlus": 6,
+                "countEggs": 125,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 119,
+                "countTotal": 12
+            }
+        },
+        "202447": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 162,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 10,
+                "countEggs": 178,
+                "countTotal": 18
+            }
+        },
+        "202446": {
+            "校園自主管理": {
+                "countPlus": 9,
+                "countEggs": 156,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 156,
+                "countTotal": 12
+            }
+        },
+        "202445": {
+            "校園自主管理": {
+                "countPlus": 9,
+                "countEggs": 161,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 134,
+                "countTotal": 12
+            }
+        },
+        "202444": {
+            "校園自主管理": {
+                "countPlus": 11,
+                "countEggs": 209,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 176,
+                "countTotal": 12
+            }
+        },
+        "202443": {
+            "校園自主管理": {
+                "countPlus": 12,
+                "countEggs": 236,
+                "countTotal": 18
+            },
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 232,
+                "countTotal": 12
+            }
+        }
+    },
+    "67000320037": {
+        "202519": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 26,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 94,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 74,
+                "countTotal": 5
+            }
+        },
+        "202518": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 22,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 68,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 137,
+                "countTotal": 5
+            }
+        },
+        "202517": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 36,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 28,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 110,
+                "countTotal": 5
+            }
+        },
+        "202516": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 55,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 49,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 89,
+                "countTotal": 5
+            }
+        },
+        "202515": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 68,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 3,
+                "countEggs": 124,
+                "countTotal": 5
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 8
+            }
+        },
+        "202514": {
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 9,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 13,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 112,
+                "countTotal": 5
+            }
+        },
+        "202513": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 27,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 26,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 61,
+                "countTotal": 5
+            }
+        },
+        "202512": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 46,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 28,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 91,
+                "countTotal": 5
+            }
+        },
+        "202511": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 88,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 141,
+                "countTotal": 5
+            },
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 14,
+                "countTotal": 8
+            }
+        },
+        "202510": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 14,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 149,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 150,
+                "countTotal": 5
+            }
+        },
+        "202509": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 103,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 72,
+                "countTotal": 5
+            }
+        },
+        "202508": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 23,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            }
+        },
+        "202507": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            }
+        },
+        "202506": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 6,
+                "countTotal": 5
+            }
+        },
+        "202505": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 6,
+                "countTotal": 5
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 12
+            }
+        },
+        "202504": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202503": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 11,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202502": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 5,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 12,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            }
+        },
+        "202501": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 10,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 17,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 5
+            }
+        },
+        "202452": {
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 34,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 5,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 9,
+                "countTotal": 5
+            }
+        },
+        "202451": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 79,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 37,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 9,
+                "countTotal": 5
+            }
+        },
+        "202450": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 118,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 41,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 1,
+                "countEggs": 26,
+                "countTotal": 5
+            }
+        },
+        "202449": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 56,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 59,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 222,
+                "countTotal": 5
+            }
+        },
+        "202448": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 65,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 76,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 205,
+                "countTotal": 5
+            }
+        },
+        "202447": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 104,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 2,
+                "countEggs": 59,
+                "countTotal": 8
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 105,
+                "countTotal": 5
+            }
+        },
+        "202446": {
+            "校園自主管理": {
+                "countPlus": 3,
+                "countEggs": 54,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 7,
+                "countEggs": 152,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 123,
+                "countTotal": 5
+            }
+        },
+        "202445": {
+            "校園自主管理": {
+                "countPlus": 4,
+                "countEggs": 53,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 107,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 77,
+                "countTotal": 5
+            }
+        },
+        "202444": {
+            "校園自主管理": {
+                "countPlus": 4,
+                "countEggs": 75,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 55,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 2,
+                "countEggs": 216,
+                "countTotal": 5
+            }
+        },
+        "202443": {
+            "校園自主管理": {
+                "countPlus": 7,
+                "countEggs": 122,
+                "countTotal": 8
+            },
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 62,
+                "countTotal": 12
+            },
+            "國衛院蚊媒中心_台南": {
+                "countPlus": 4,
+                "countEggs": 232,
+                "countTotal": 5
+            }
+        }
+    },
+    "67000340004": {
+        "202519": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 16,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 67,
+                "countTotal": 12
+            }
+        },
+        "202518": {
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 20,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 133,
+                "countTotal": 12
+            }
+        },
+        "202517": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 96,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 1,
+                "countEggs": 4,
+                "countTotal": 1
+            }
+        },
+        "202516": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 63,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202515": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 63,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202514": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202513": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202512": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202511": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 27,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202510": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 27,
+                "countTotal": 12
+            }
+        },
+        "202509": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202508": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202507": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 15,
+                "countTotal": 12
+            }
+        },
+        "202506": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 27,
+                "countTotal": 12
+            }
+        },
+        "202505": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 12,
+                "countTotal": 12
+            }
+        },
+        "202504": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 7,
+                "countTotal": 12
+            }
+        },
+        "202503": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 1,
+                "countEggs": 7,
+                "countTotal": 12
+            }
+        },
+        "202502": {
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            },
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            }
+        },
+        "202501": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202452": {
+            "台南市衛生局": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202451": {
+            "台南市衛生局": {
+                "countPlus": 2,
+                "countEggs": 58,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202450": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 174,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202449": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 157,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202448": {
+            "台南市衛生局": {
+                "countPlus": 5,
+                "countEggs": 124,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202447": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 162,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202446": {
+            "台南市衛生局": {
+                "countPlus": 6,
+                "countEggs": 127,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202445": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 51,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202444": {
+            "台南市衛生局": {
+                "countPlus": 3,
+                "countEggs": 30,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        },
+        "202443": {
+            "台南市衛生局": {
+                "countPlus": 4,
+                "countEggs": 94,
+                "countTotal": 12
+            },
+            "校園自主管理": {
+                "countPlus": 0,
+                "countEggs": 0,
+                "countTotal": 1
+            }
+        }
+    },
     "67000280007": {
         "202519": {
             "台南市衛生局": {
@@ -30520,501 +31715,6 @@
                 "countPlus": 8,
                 "countEggs": 120,
                 "countTotal": 12
-            }
-        }
-    },
-    "67000320037": {
-        "202519": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 94,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 74,
-                "countTotal": 5
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 17,
-                "countTotal": 8
-            }
-        },
-        "202518": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 22,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 68,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 137,
-                "countTotal": 5
-            }
-        },
-        "202517": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 36,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 28,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 110,
-                "countTotal": 5
-            }
-        },
-        "202516": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 55,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 49,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 89,
-                "countTotal": 5
-            }
-        },
-        "202515": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 68,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 3,
-                "countEggs": 124,
-                "countTotal": 5
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 8
-            }
-        },
-        "202514": {
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 9,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 13,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 112,
-                "countTotal": 5
-            }
-        },
-        "202513": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 27,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 26,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 61,
-                "countTotal": 5
-            }
-        },
-        "202512": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 46,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 28,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 91,
-                "countTotal": 5
-            }
-        },
-        "202511": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 88,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 141,
-                "countTotal": 5
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 14,
-                "countTotal": 8
-            }
-        },
-        "202510": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 14,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 149,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 150,
-                "countTotal": 5
-            }
-        },
-        "202509": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 103,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 72,
-                "countTotal": 5
-            }
-        },
-        "202508": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 23,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
-        },
-        "202507": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
-        },
-        "202506": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 5
-            }
-        },
-        "202505": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 6,
-                "countTotal": 5
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 12
-            }
-        },
-        "202504": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202503": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 11,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202502": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
-        },
-        "202501": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 10,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 17,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 5
-            }
-        },
-        "202452": {
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 34,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 5,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 9,
-                "countTotal": 5
-            }
-        },
-        "202451": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 79,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 37,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 9,
-                "countTotal": 5
-            }
-        },
-        "202450": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 118,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 41,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 1,
-                "countEggs": 26,
-                "countTotal": 5
-            }
-        },
-        "202449": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 56,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 59,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 222,
-                "countTotal": 5
-            }
-        },
-        "202448": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 65,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 76,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 205,
-                "countTotal": 5
-            }
-        },
-        "202447": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 104,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 59,
-                "countTotal": 8
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 105,
-                "countTotal": 5
-            }
-        },
-        "202446": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 54,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 152,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 123,
-                "countTotal": 5
-            }
-        },
-        "202445": {
-            "校園自主管理": {
-                "countPlus": 4,
-                "countEggs": 53,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 107,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 77,
-                "countTotal": 5
-            }
-        },
-        "202444": {
-            "校園自主管理": {
-                "countPlus": 4,
-                "countEggs": 75,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 55,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 2,
-                "countEggs": 216,
-                "countTotal": 5
-            }
-        },
-        "202443": {
-            "校園自主管理": {
-                "countPlus": 7,
-                "countEggs": 122,
-                "countTotal": 8
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 62,
-                "countTotal": 12
-            },
-            "國衛院蚊媒中心_台南": {
-                "countPlus": 4,
-                "countEggs": 232,
-                "countTotal": 5
             }
         }
     },
@@ -34909,356 +35609,6 @@
             "台南市衛生局": {
                 "countPlus": 6,
                 "countEggs": 148,
-                "countTotal": 12
-            }
-        }
-    },
-    "67000320023": {
-        "202519": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 190,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 8,
-                "countEggs": 132,
-                "countTotal": 18
-            }
-        },
-        "202518": {
-            "校園自主管理": {
-                "countPlus": 8,
-                "countEggs": 199,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 209,
-                "countTotal": 12
-            }
-        },
-        "202517": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 286,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 107,
-                "countTotal": 18
-            }
-        },
-        "202516": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 219,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 5,
-                "countEggs": 65,
-                "countTotal": 18
-            }
-        },
-        "202515": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 115,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 32,
-                "countTotal": 18
-            }
-        },
-        "202514": {
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 52,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 86,
-                "countTotal": 12
-            }
-        },
-        "202513": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 91,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 5,
-                "countEggs": 27,
-                "countTotal": 18
-            }
-        },
-        "202512": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 112,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 4,
-                "countEggs": 46,
-                "countTotal": 18
-            }
-        },
-        "202511": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 113,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 5,
-                "countEggs": 51,
-                "countTotal": 18
-            }
-        },
-        "202510": {
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 81,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 81,
-                "countTotal": 12
-            }
-        },
-        "202509": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 33,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 28,
-                "countTotal": 12
-            }
-        },
-        "202508": {
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 39,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 7,
-                "countEggs": 26,
-                "countTotal": 18
-            }
-        },
-        "202507": {
-            "校園自主管理": {
-                "countPlus": 8,
-                "countEggs": 36,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 60,
-                "countTotal": 12
-            }
-        },
-        "202506": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 30,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 112,
-                "countTotal": 12
-            }
-        },
-        "202505": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 46,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 85,
-                "countTotal": 12
-            }
-        },
-        "202504": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 42,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 36,
-                "countTotal": 12
-            }
-        },
-        "202503": {
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 42,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 60,
-                "countTotal": 12
-            }
-        },
-        "202502": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 59,
-                "countTotal": 12
-            }
-        },
-        "202501": {
-            "校園自主管理": {
-                "countPlus": 2,
-                "countEggs": 20,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 81,
-                "countTotal": 12
-            }
-        },
-        "202452": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 36,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 173,
-                "countTotal": 12
-            }
-        },
-        "202451": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 183,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 3,
-                "countEggs": 46,
-                "countTotal": 18
-            }
-        },
-        "202450": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 146,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 116,
-                "countTotal": 18
-            }
-        },
-        "202449": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 135,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 149,
-                "countTotal": 18
-            }
-        },
-        "202448": {
-            "校園自主管理": {
-                "countPlus": 6,
-                "countEggs": 125,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 119,
-                "countTotal": 12
-            }
-        },
-        "202447": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 162,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 10,
-                "countEggs": 178,
-                "countTotal": 18
-            }
-        },
-        "202446": {
-            "校園自主管理": {
-                "countPlus": 9,
-                "countEggs": 156,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 156,
-                "countTotal": 12
-            }
-        },
-        "202445": {
-            "校園自主管理": {
-                "countPlus": 9,
-                "countEggs": 161,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 134,
-                "countTotal": 12
-            }
-        },
-        "202444": {
-            "校園自主管理": {
-                "countPlus": 11,
-                "countEggs": 209,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 7,
-                "countEggs": 176,
-                "countTotal": 12
-            }
-        },
-        "202443": {
-            "校園自主管理": {
-                "countPlus": 12,
-                "countEggs": 236,
-                "countTotal": 18
-            },
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 232,
                 "countTotal": 12
             }
         }
@@ -43665,356 +44015,6 @@
                 "countPlus": 8,
                 "countEggs": 211,
                 "countTotal": 12
-            }
-        }
-    },
-    "67000340004": {
-        "202519": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 67,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 16,
-                "countTotal": 1
-            }
-        },
-        "202518": {
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 20,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 133,
-                "countTotal": 12
-            }
-        },
-        "202517": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 96,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 1,
-                "countEggs": 4,
-                "countTotal": 1
-            }
-        },
-        "202516": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 63,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202515": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 63,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202514": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202513": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202512": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202511": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 27,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202510": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 27,
-                "countTotal": 12
-            }
-        },
-        "202509": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202508": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202507": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 15,
-                "countTotal": 12
-            }
-        },
-        "202506": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 27,
-                "countTotal": 12
-            }
-        },
-        "202505": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 12,
-                "countTotal": 12
-            }
-        },
-        "202504": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 12
-            }
-        },
-        "202503": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 1,
-                "countEggs": 7,
-                "countTotal": 12
-            }
-        },
-        "202502": {
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            },
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            }
-        },
-        "202501": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202452": {
-            "台南市衛生局": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202451": {
-            "台南市衛生局": {
-                "countPlus": 2,
-                "countEggs": 58,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202450": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 174,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202449": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 157,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202448": {
-            "台南市衛生局": {
-                "countPlus": 5,
-                "countEggs": 124,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202447": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 162,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202446": {
-            "台南市衛生局": {
-                "countPlus": 6,
-                "countEggs": 127,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202445": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 51,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202444": {
-            "台南市衛生局": {
-                "countPlus": 3,
-                "countEggs": 30,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
-            }
-        },
-        "202443": {
-            "台南市衛生局": {
-                "countPlus": 4,
-                "countEggs": 94,
-                "countTotal": 12
-            },
-            "校園自主管理": {
-                "countPlus": 0,
-                "countEggs": 0,
-                "countTotal": 1
             }
         }
     },
